@@ -10,4 +10,5 @@ From the file MAfile.fa (multiple alignment performed with MAFFT version 7) it w
 ## Requirements
 
 Python version 3
+
 R version 4
