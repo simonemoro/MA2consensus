@@ -11,6 +11,8 @@ From the file "MAfile.fa.gz" (multiple sequence alignment performed with MAFFT v
 
 ## Requirements
 
+Linux distribution (e.g. Ubuntu 20.04.2 LTS 64-bit or later) or MacOS
+
 Python v3.10.8
 (Biopython v1.81)
 (numpy v1.26.1)
