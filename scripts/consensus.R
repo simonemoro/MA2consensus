@@ -31,7 +31,6 @@ for(f in files){
 }
 
 finaltab <- t(data.frame(cons_orig))
-
 rownames(finaltab) <- str_replace_all(files,'.csv','')
 colnames(finaltab) <- 'consensus'
 write.csv(finaltab,'./analysis/consensus_tab.csv',quote = F)
